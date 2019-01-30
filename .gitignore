@@ -1,0 +1,23 @@
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# External tool builders
+.externalToolBuilders/
+
+# Java Classes
+build/
+
+# Static Analysis Tools et Testing tools
+reports/
+
+# Distribution JAR file
+dist/
