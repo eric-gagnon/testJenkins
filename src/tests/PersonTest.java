@@ -13,11 +13,11 @@ public class PersonTest extends TestCase {
     public void testTrue() {
         assertTrue(true);
     }
-	/*
+	
 	@Test
 	public void testFalse() {
 		fail("Not yet implemented");
-	}*/
+	}
 
 	@Test
 	public void testGetName() {
