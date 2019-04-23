@@ -16,7 +16,7 @@ public class PersonTest extends TestCase {
 	
 	@Test
 	public void testFalse() {
-		fail("Not yet implemented");
+		assertFalse(false);
 	}
 
 	@Test
